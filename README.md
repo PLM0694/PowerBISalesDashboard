@@ -17,6 +17,7 @@ The following are Key Sales Metric that I will be tracking:
 
 Some data were missing, for example determining old vs new customers. The most recent customer purchase was from 2014, therefore I made the determination that all 2014 customers will be considered "new" customers and the rest would be "old/existing." 
 
-See the work in progess dashboard:
-![image](https://github.com/PLM0694/PowerBISalesDashboard/assets/55467236/1c29d58b-7010-4ad4-a982-6a91e97a8113)
+Final dashboard:
+![image](https://github.com/PLM0694/PowerBISalesDashboard/assets/55467236/a6c4bf3b-c56a-460d-9a26-a2a5eb61a689)
+
 
